@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cinema6/vast-player.git"
+    "url": "git+https://github.com/getintent/vast-player.git"
   },
   "keywords": [
     "vast",
@@ -35,9 +35,9 @@
   "author": "Reelcontent, Inc.",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cinema6/vast-player/issues"
+    "url": "https://github.com/getintent/vast-player/issues"
   },
-  "homepage": "https://github.com/cinema6/vast-player#readme",
+  "homepage": "https://github.com/getintent/vast-player#readme",
   "devDependencies": {
     "brfs": "^1.4.3",
     "browserify": "^13.0.0",
