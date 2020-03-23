@@ -78,7 +78,9 @@
                     ExternalInterface.addCallback("resumeAd", resumeAd);
                     ExternalInterface.addCallback("expandAd", expandAd);
                     ExternalInterface.addCallback("collapseAd", collapseAd);
-                } catch (e:Error) {}
+                } catch (e:Error) {
+                    console.log(4, e);
+                }
             }
 
             if (this.loaderInfo.parameters) {
